@@ -5,6 +5,6 @@ This is the repository of the website hosted at **[stunnd.github.io](http://stun
 
 If you are looking for the project's repository, please use the link below:
 
-**[stunnd.github.io](https://github.com/Stunnd/Stunnd-Premium)**
+**[https://github.com/Stunnd/Stunnd-Premium](https://github.com/Stunnd/Stunnd-Premium)**
 
 Thank you.
