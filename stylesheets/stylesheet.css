@@ -262,6 +262,13 @@ img {
 Full-Width Styles
 *******************************************************************************/
 
+#banner-main{
+	width:758px;
+	height:424px;
+	background:url('../images/stunnd-banner.jpg') no-repeat center center;
+	margin-bottom:20px;
+}
+
 .outer {
   width: 100%;
 }
@@ -289,6 +296,7 @@ Full-Width Styles
 }
 
 #header_wrap {
+  height:10px;
   background: #212121;
   background: -moz-linear-gradient(top, #373737, #212121);
   background: -webkit-linear-gradient(top, #373737, #212121);
@@ -367,7 +375,6 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
 }
 
 
